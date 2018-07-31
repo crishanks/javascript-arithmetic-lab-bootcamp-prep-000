@@ -82,7 +82,7 @@ function makeInt(n){
 }
 
 function preserveDecimal(num){
-  return parseFloat(num)
+  return parseFloat(num)}
 
 
 
